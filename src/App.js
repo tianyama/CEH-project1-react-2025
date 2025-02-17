@@ -1,4 +1,4 @@
-import { Box } from "@mui/material";
+import { Box, Container } from "@mui/material";
 import Product from "./Product/ProductList.tsx";
 import NavigationBar from "./NavigationBar.tsx";
 import ProductList from "./Ja.tsx";
